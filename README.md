@@ -8,6 +8,7 @@ Installation:
 		NPC :  for third person and first person camera.  For first person, need to additionally include the Third Person Character Mannequin.
 		NPC-TopDown :  for top down camera.
 		NPC-SideScroller :  for 3D side scrolling camera.
+		NPC-2DSideScroller :  for Paper 2D side scrolling camera.
 	4. Open the Event Graph of the appropriate NPC template, and copy the F key event and its associated actions to the Event Graph of the player character.
 
 Usage:
