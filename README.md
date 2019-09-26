@@ -1,4 +1,4 @@
-# Bluerprint-based Dialogue system for the Unreal engine
+# Blueprint-based Dialogue system for the Unreal engine
 
 Installation:
 
@@ -18,4 +18,4 @@ Usage:
 
 For citations:
 	
-	Richard Zhao, Bluerprint-based Dialogue system for the Unreal engine, https://github.com/ZhaoRichard/unreal-dialogue
+	Richard Zhao, Blueprint-based Dialogue system for the Unreal engine, https://github.com/ZhaoRichard/unreal-dialogue
