@@ -2,7 +2,7 @@
 
 Installation:
 
-	1. Copy the folder /BlueprintBasedDialogue/ and all files in it to the /Content/ folder under a project, so that the files are under /Content/BlueprintBasedDialogue/
+	1. Copy the folder /BlueprintBasedDialogue/ and all files in it to the /Content/ folder under a project, so that the files are under <project name>/Content/BlueprintBasedDialogue/
 	2. Under Project Settings, Maps & Modes, set Game Instance Class to DialogueGameInstance
 	3. Choose the appropriate NPC template from /Content/BlueprintBasedDialogue/ :
 		NPC :  for third person and first person camera.  For first person, need to additionally include the Third Person Character Mannequin.
